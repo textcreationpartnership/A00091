@@ -36,9 +36,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-Iniunctions gyuen by th [sic] auctoritie of the kynges highnes to the clergie of this his realmeInju
+
+1. INIVNCTIONS GYVEN BY THAVCtoritie of the kynges highnes to the clergie of this his cealius.
+
 #####Back#####
-Iniunctions gyuen by th [sic] auctoritie of the kynges highnes to the clergie of this his realmeInju
+Thomas Berthelet Regius impreſſor excudebat, CVM PRIVILEGIO.Thomas Ber..... CVM PRIVILEGIO.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
